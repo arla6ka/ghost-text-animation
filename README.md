@@ -13,5 +13,3 @@
 ## Demo
 
 Check out the [live demo](https://ghost-text-animation.vercel.app/) to see the component in action.
-
-Arlan Marat(https://arlan.me)
